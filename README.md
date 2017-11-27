@@ -1,10 +1,8 @@
 # my XFCE theme
 
-based on tgc - a port of the metacity theme TigertCrack by Tigert.
+Based on tgc - a port of the metacity theme TigertCrack by Tigert  
+Tweaked for wasting minimum vertical screen estate  
 
-## TODO
-
-Screenshot  
-links section  
-better description
+![screenshot](screenshot.png)
+ 
 
